@@ -206,3 +206,5 @@ spearmanCorr <- function(profile1, profile2, threshold = 1e-8) {
 
     return(correlation)
 }
+
+## TODO : Add Kendell correlation
